@@ -18,7 +18,7 @@ The platform aims to:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Next.js, TypeScript, Tailwind CSS  
+- **Frontend:** Next.js, TypeScript, Tailwind CSS, ShadCN UI, Lucide React
 - **Backend:** Firebase (Authentication, Firestore Database)  
 - **AI Integration:** Simple event analytics using AI APIs, AI chatbot, Event summary, Event Detail generation 
 - **Authentication:** Firebase Auth
